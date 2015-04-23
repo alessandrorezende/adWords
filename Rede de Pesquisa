@@ -24,7 +24,9 @@ O Google AdWords é organizado em três camadas: conta, campanhas e grupos de an
 +Correspondencia de palavra-chave
 
 --correspondência AMPLA para exibir seu anúncio a um público-alvo extenso. +palavra-chave
---correspondência FRASE -  "palavra-chave"
+--correspondência FRASE -  seu anúncio poderá ser exibido quando alguém pesquisar sua palavra-chave exata 
+                           ou sua palavra-chave exata com palavras adicionais antes ou depois dela 
+                           "palavra-chave"
 --correspondência EXATA para alcançar grupos específicos de clientes. EX: [palavra-chave]
 --correspondência NEGATIVA não contêm o termo pesquisado. EX: -palavra-chave
 
