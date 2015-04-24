@@ -35,10 +35,22 @@ Observação: Rede de Display, as palavras-chave são tratadas como correspondê
 
 --Relatório de termos de pesquisa: monitorar as variações de palavra-chave que acionaram seus anúncios
 #################################################################################################
-
-
-
-
+EXEMPLO ANÚNCIO:
+Conta:
+ Fabricante de chocolates  
+Campanha 1:
+ Barras de chocolate  
+Campanha 2:
+ Caixas de presente para o Dia dos Namorados 
+Grupos de anúncios:
+ Barra de framboesa 
+ Barra de caramelo 
+ Barra com aroma de gengibre 
+Grupos de anúncios:
+ 30% de desconto para caixas de presente 
+ Entrega grátis para caixas de presente 
+ Chocolates finos para o Dia dos Namorados 
+#################################################################################################
 
 
 
